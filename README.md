@@ -15,7 +15,8 @@
   <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img src="https://i.ibb.co/Z6C31k0/Foto-Livro-sua-hist-ria.png" alt="Foto-Livro-sua-hist-ria" border="0"></a>              
+  <img align="right" alt="Vanessa-avatar" height="150" style="border-radius:50px;"src="https://i.ibb.co/9tBRgsq/avatar-vanessa.png" alt="avatar-vanessa" border="0">
+  </div>
           
                 
           
