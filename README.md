@@ -1,5 +1,22 @@
-## Eei galera, eu sou a Vanessa Moraes e estou aprendendo a programar!
-## Hey, everybody!, I'm Vanessa Moraes and I'm learning how to code!
+# Vanessa Moraes 🤖💻
+Student of Defense and Strategic Management, coding enthusiast, and blogger. Check out my tech projects and ideas on my website: https://www.vanessamoraes.tech.
+
+## Skills 🚀
+- Technology Enthusiast
+- Coding
+- HTML, CSS, JavaScript, Python, Java, C++
+
+## Projects 💻
+- 🎲 "O Pagador da Vez" web version
+- 🎮 "O Pagador da Vez" CLI version
+- 🎭 "Black Women Dict" responsive website
+- 📝 Personal tech blog
+
+## Contact 📧
+- vanessamoraes@ufrj.br
+- https://www.linkedin.com/in/vanessamoraess/
+- Niterói, RJ 🇧🇷
+
 <div align="center">
   <a href="https://github.com/vanemoraess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanemoraess&show_icons=true&include_all_commits=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
