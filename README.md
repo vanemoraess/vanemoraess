@@ -4,8 +4,7 @@ Student of Defense and Strategic Management, coding enthusiast, and blogger. Che
 ## Skills 🚀
 - Technology Enthusiast
 - Coding
-- HTML, CSS, JavaScript, Python, Java, C++
-
+- HTML, CSS, JavaScript, Python, Java
 ## Projects 💻
 - 🎲 "O Pagador da Vez" web version
 - 🎮 "O Pagador da Vez" CLI version
