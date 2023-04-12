@@ -1,5 +1,5 @@
 # Vanessa Moraes 🤖💻
-Student of Defense and Strategic Management, coding enthusiast, and blogger. Check out my tech projects and ideas on my website: https://www.vanessamoraes.tech.
+Student of Defense and Strategic Management, coding enthusiast, and blogger. Check out my tech projects and ideas on my website:
 
 ## Skills 🚀
 - Technology Enthusiast
